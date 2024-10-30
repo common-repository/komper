@@ -1,0 +1,27 @@
+/* 
+    Document   : komper
+    Created on : Oct 24, 2012, 3:17:07 PM
+    Author     : Miaz Akemapa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#lisortable { list-style-type: none; margin: 0; padding: 0; width: 300px; }
+#lisortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+#lisortable li span { position: absolute; margin-left: -1.3em; }
+#flashmsg {margin:5px; padding-top: 2px;padding-left: 5px; color: #fff;width:98%;font-size:14px;-moz-border-radius: 6px;-webkit-border-radius: 6px;background-color: #00CCCC;}
+
+.tdplaceholder {background-color:Red ;
+    color:Red;
+    height: 20px; 
+    line-height:30px;
+    border: solid 2px black;}
+.action-kanan {float: right; margin-right: 10px;}
+.ui-button-icon-right .ui-button-icon-primary  {  
+   left: auto;  
+   right: 0.5em;  
+}  
+.ui-button-icon-right .ui-button-text  
+{  
+   padding: 1px 25px 1px 12px;  
+}  
